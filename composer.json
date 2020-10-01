@@ -1,0 +1,13 @@
+{
+    "name": "jimvaneijk/woo-additional-gift-wrapping",
+    "description": "his plugin gives you the opportunity to add additional gift wrapping field to your products.",
+    "type": "wordpress-plugin",
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "Jim van Eijk",
+            "email": "jim@five10.nl"
+        }
+    ],
+    "minimum-stability": "stable"
+}
