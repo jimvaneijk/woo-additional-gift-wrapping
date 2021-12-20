@@ -4,7 +4,7 @@ This plugin gives you the opportunity to add additional gift wrapping field to y
 
 Setup the global function at Woocommerce > Settings > General 
 
-###Features
+### Features
 
 - Choose the field type (Select or Checkbox)
 - setup your own label/description
@@ -15,7 +15,7 @@ Setup the global function at Woocommerce > Settings > General
 
 ---
 
-###Let me know what you think
+### Let me know what you think
 
 **Author :**
 Jim van Eijk _jim@five10.nl_
